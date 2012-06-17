@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<tabs>
-  <tab name="Home" url="/Default.aspx"/>
-  <tab name="Service" url="/Service.aspx"/>
-  <tab name="Photos" url="/Photos.aspx" />
-  <tab name="Guest Book" url="/GuestBook.aspx" />
-</tabs>

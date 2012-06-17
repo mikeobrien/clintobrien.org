@@ -1,8 +1,0 @@
-obj
-bin
-_ReSharper.*
-.nu
-*.user
-*.suo
-*.orig
-Thumbs.db
